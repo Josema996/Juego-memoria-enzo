@@ -1,9 +1,9 @@
-import src1 from './images/sub25/ansu-fati.jpg';
-import src2 from './images/sub25/alphonso-davies.jpg';
-import src3 from './images/sub25/christian-pulisic.jpg';
-import src4 from './images/sub25/erling-haaland.jpg';
-import src5 from './images/sub25/jordan-sancho.jpg';
-import src6 from './images/sub25/kylian-mbappe.jpg';
+import src1 from './images/sub25/Enzo1.jpg';
+import src2 from './images/sub25/Enzo2.jpg';
+import src3 from './images/sub25/Enzo3.jpg';
+import src4 from './images/sub25/Enzo4.jpg';
+import src5 from './images/sub25/Enzo5.jpg';
+import src6 from './images/sub25/Enzo6.jpg';
 
 
 const images = [
